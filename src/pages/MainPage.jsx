@@ -1,5 +1,5 @@
 import React from "react";
-import { BrowserRouter as Router, Switch, Route, NavLink } from 'react-router-dom'
+import { HashRouter as Router, Switch, Route, NavLink } from 'react-router-dom'
 import { CartPage } from "./CartPage";
 import { FavoritePage } from './FavoritePage';
 import { ShopPage } from './ShopPage';
