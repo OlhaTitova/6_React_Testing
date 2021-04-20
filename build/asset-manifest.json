@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/OlhaTitova/6_React_Testing/static/css/main.65803800.chunk.css",
+    "main.js": "/OlhaTitova/6_React_Testing/static/js/main.b3000bc0.chunk.js",
+    "main.js.map": "/OlhaTitova/6_React_Testing/static/js/main.b3000bc0.chunk.js.map",
+    "runtime-main.js": "/OlhaTitova/6_React_Testing/static/js/runtime-main.3f6e2f33.js",
+    "runtime-main.js.map": "/OlhaTitova/6_React_Testing/static/js/runtime-main.3f6e2f33.js.map",
+    "static/js/2.aa0f58a4.chunk.js": "/OlhaTitova/6_React_Testing/static/js/2.aa0f58a4.chunk.js",
+    "static/js/2.aa0f58a4.chunk.js.map": "/OlhaTitova/6_React_Testing/static/js/2.aa0f58a4.chunk.js.map",
+    "index.html": "/OlhaTitova/6_React_Testing/index.html",
+    "static/css/main.65803800.chunk.css.map": "/OlhaTitova/6_React_Testing/static/css/main.65803800.chunk.css.map",
+    "static/js/2.aa0f58a4.chunk.js.LICENSE.txt": "/OlhaTitova/6_React_Testing/static/js/2.aa0f58a4.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3f6e2f33.js",
+    "static/js/2.aa0f58a4.chunk.js",
+    "static/css/main.65803800.chunk.css",
+    "static/js/main.b3000bc0.chunk.js"
+  ]
+}
